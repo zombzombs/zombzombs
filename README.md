@@ -11,10 +11,10 @@
 <br>
 
 ## GitHub 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rickrocca&bg_color=301934&border_color=51414F&title_color=BF40BF&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zombzombs&bg_color=301934&border_color=51414F&title_color=BF40BF&text_color=FFF)
 
 
 # 
 <br>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rickrocca&repo=Quarto-Branco&bg_color=301934&border_color=51414f&show_icons=true&icon_color=51414f&title_color=BF40BF&text_color=FFF)](https://github.com/rickrocca/Quarto-Branco)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zombzombs&repo=Quarto-Branco&bg_color=301934&border_color=51414f&show_icons=true&icon_color=51414f&title_color=BF40BF&text_color=FFF)](https://github.com/zombzombs/Quarto-Branco)
